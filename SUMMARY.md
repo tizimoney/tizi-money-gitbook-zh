@@ -9,7 +9,8 @@
 * [Tizi Money资产](he-xin-li-nian/tizi-money-assets/README.md)
   * [特点](he-xin-li-nian/tizi-money-assets/te-dian.md)
   * [Tizi 代币（TD）](he-xin-li-nian/tizi-money-assets/tizi-token-td.md)
-  * [WPT（提现凭证代币）](he-xin-li-nian/tizi-money-assets/wpt-ti-xian-ping-zheng-dai-bi.md)
+  * [stTD](he-xin-li-nian/tizi-money-assets/sttd.md)
+  * [TUWT（提现凭证代币）](he-xin-li-nian/tizi-money-assets/wpt-ti-xian-ping-zheng-dai-bi.md)
 * [应用场景](he-xin-li-nian/use-cases.md)
 * [常见问题解答（FAQ）](he-xin-li-nian/faq-frequently-asked-questions.md)
 
@@ -23,8 +24,10 @@
 ## 用户指南
 
 * [兑换](yong-hu-zhi-nan/mint.md)
+* [质押](yong-hu-zhi-nan/zhi-ya.md)
 * [费用](yong-hu-zhi-nan/fei-yong.md)
 * [复利](yong-hu-zhi-nan/fu-li.md)
+* [赎回](yong-hu-zhi-nan/shu-hui.md)
 * [提现](yong-hu-zhi-nan/withdraw.md)
 * [管理者和系统管理员](yong-hu-zhi-nan/manager.md)
 * [策略](yong-hu-zhi-nan/strategies.md)
