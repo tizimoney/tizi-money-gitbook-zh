@@ -29,7 +29,7 @@
 * [复利](yong-hu-zhi-nan/fu-li.md)
 * [赎回](yong-hu-zhi-nan/shu-hui.md)
 * [提现](yong-hu-zhi-nan/withdraw.md)
-* [管理者和系统管理员](yong-hu-zhi-nan/manager.md)
+* [角色](yong-hu-zhi-nan/manager.md)
 * [策略](yong-hu-zhi-nan/strategies.md)
 * [合约地址](yong-hu-zhi-nan/he-yue-di-zhi.md)
 
