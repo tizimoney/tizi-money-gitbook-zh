@@ -30,6 +30,7 @@
 * [赎回](yong-hu-zhi-nan/shu-hui.md)
 * [提现](yong-hu-zhi-nan/withdraw.md)
 * [角色](yong-hu-zhi-nan/manager.md)
+* [积分](yong-hu-zhi-nan/ji-fen.md)
 * [策略](yong-hu-zhi-nan/strategies.md)
 * [合约地址](yong-hu-zhi-nan/he-yue-di-zhi.md)
 
