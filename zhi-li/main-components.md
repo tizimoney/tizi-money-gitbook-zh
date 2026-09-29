@@ -48,7 +48,7 @@ Tizi使用桥有两个不同的目的：
 | ---------- | ------- | ---- |
 | CCTP       |         | X    |
 | Axelar     | X       |      |
-| Layer Zero | X       | X    |
+| LayerZero | X       | X    |
 
 快照
 
