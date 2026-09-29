@@ -7,7 +7,7 @@ TD与USDC保持1:1的挂钩比例，当USDC参与各种策略获得收益，质�
 项目的净现值计算包括三个部分：主钱包中尚未分发的USDC、项目在多条链上的跨链USDC，以及通过不同策略收集并由其他代币兑换的USDC。
 
 $$
-NPV=USDC_m+USDC_p+USDC_c
+NPV=USD_m+USD_p+USD_c
 $$
 
 如果净现值大于当前总资产netAssets，则产生资产正增长，向质押池中铸造NPV-netAssets数量的TD，增长的数量会在接下来7天中线性释放；如果净现值小于当前总资产netAssets，则资产负增长，在质押池中销毁netAssets-NPV数量的TD。随后将netAssets设置为净现值。

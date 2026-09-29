@@ -6,3 +6,5 @@
 * &#x20;使用简便：只需铸造(TD)并直接质押(获得stTD)一次，之后无需操心，您的资金将自动增长。
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+图例：hexagon—合约，{ } —多链集合，箭头—资金流向，&lt;&gt;—链

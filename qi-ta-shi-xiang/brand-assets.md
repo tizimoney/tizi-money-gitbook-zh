@@ -2,5 +2,5 @@
 
 Logos
 
-<figure><img src="../.gitbook/assets/tizi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/logo.png" alt=""><figcaption></figcaption></figure>
 
